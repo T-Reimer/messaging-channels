@@ -1,0 +1,20 @@
+{
+  "name": "messaging-channels",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc npm run test",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.1",
+    "nyc": "^15.1.0",
+    "typescript": "^3.9.7"
+  }
+}

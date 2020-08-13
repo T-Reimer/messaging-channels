@@ -1,0 +1,6 @@
+# ignore the build files
+index.js
+index.d.ts
+
+# ignore dependency directories
+node_modules
