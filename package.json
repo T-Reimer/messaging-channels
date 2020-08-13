@@ -10,7 +10,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Trevor trevorreimer95@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^8.1.1",
