@@ -4,3 +4,6 @@ index.d.ts
 
 # ignore dependency directories
 node_modules
+
+.nyc_output
+coverage
